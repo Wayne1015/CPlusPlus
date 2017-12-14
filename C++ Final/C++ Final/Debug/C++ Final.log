@@ -1,0 +1,6 @@
+﻿  CFinal.cpp
+c:\users\owner\desktop\c++\c++ final\c++ final\cfinal.cpp(60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\owner\desktop\c++\c++ final\c++ final\cfinal.cpp(89): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\owner\desktop\c++\c++ final\c++ final\cfinal.cpp(62): warning C4101: 'beansAdded': unreferenced local variable
+  C++ Final.vcxproj -> C:\Users\Owner\Desktop\C++\C++ Final\Debug\C++ Final.exe
+  C++ Final.vcxproj -> C:\Users\Owner\Desktop\C++\C++ Final\Debug\C++ Final.pdb (Partial PDB)
